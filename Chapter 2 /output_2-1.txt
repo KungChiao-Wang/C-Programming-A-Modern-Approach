@@ -1,0 +1,5 @@
+/tmp/YU5xDZw1BT.c:3:1: warning: return type defaults to 'int' [-Wimplicit-int]
+    3 | main()
+      | ^~~~
+/tmp/YU5xDZw1BT.o
+hello, world
